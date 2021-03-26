@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
-  branch: master
+  repo: rtagliaviaz/gatsby-test
+  branch: main
 
 media_folder: "images/uploads"
 collections:
